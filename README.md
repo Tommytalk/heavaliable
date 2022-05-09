@@ -1,7 +1,7 @@
-## v2ray-heroku
+## jiediandajian-herokuuuu
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Tommytalk/heavaliable.git)
 
-### heroku上部署v2ray
+### heroku上部署weitworuiiiii
 - [x] 支持vmess和vless两种协议
 - [x] 支持自定义websocket路径
 - [x] 伪装首页（3D元素周期表）
